@@ -1,0 +1,15 @@
+{
+  "name": "ekonomi",
+  "version": "1.0.0",
+  "main": "blog.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}

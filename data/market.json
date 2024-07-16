@@ -1,0 +1,118 @@
+{
+  "1001": {
+    "name": "Tahta Kılıç",
+    "price": 150
+  },
+  "1002": {
+    "name": "Demir Kılıç",
+    "price": 300
+  },
+  "1003": {
+    "name": "Altın Kılıç",
+    "price": 600
+  },
+  "1004": {
+    "name": "Zırh",
+    "price": 500
+  },
+  "1005": {
+    "name": "Kalkan",
+    "price": 250
+  },
+  "1006": {
+    "name": "Şapka",
+    "price": 100
+  },
+  "1007": {
+    "name": "Çanta",
+    "price": 200
+  },
+  "1008": {
+    "name": "Köpek Balığı Kafası",
+    "price": 400
+  },
+  "1009": {
+    "name": "Altın Kolye",
+    "price": 800
+  },
+  "1010": {
+    "name": "Gümüş Yüzük",
+    "price": 200
+  },
+  "1011": {
+    "name": "Büyücü Asa",
+    "price": 350
+  },
+  "1012": {
+    "name": "İyileştirme İksiri",
+    "price": 150
+  },
+  "1013": {
+    "name": "Gizli Gece Gözlüğü",
+    "price": 300
+  },
+  "1014": {
+    "name": "Ejderha Derisi",
+    "price": 750
+  },
+  "1015": {
+    "name": "Altın Zincir",
+    "price": 500
+  },
+  "1016": {
+    "name": "Zümrüt Taşı",
+    "price": 600
+  },
+  "1017": {
+    "name": "Elmas Küpe",
+    "price": 1000
+  },
+  "1018": {
+    "name": "Kutsal Yüzük",
+    "price": 2000
+  },
+  "1019": {
+    "name": "Savaş Kalkanı",
+    "price": 450
+  },
+  "1020": {
+    "name": "Büyücü Şapkası",
+    "price": 350
+  },
+  "1021": {
+    "name": "Gümüş Kılıç",
+    "price": 400
+  },
+  "1022": {
+    "name": "Gizli Elmas",
+    "price": 700
+  },
+  "1024": {
+    "name": "Büyücü Kitabı",
+    "price": 600
+  },
+  "1025": {
+    "name": "Gizli Ceket",
+    "price": 300
+  },
+  "1026": {
+    "name": "Işık Topu",
+    "price": 500
+  },
+  "1027": {
+    "name": "Karanlık Yüzük",
+    "price": 450
+  },
+  "1028": {
+    "name": "Gizli Çanta",
+    "price": 350
+  },
+  "1029": {
+    "name": "Ejderha Pençesi",
+    "price": 600
+  },
+  "1030": {
+    "name": "Yıldız Tozu",
+    "price": 400
+  }
+}
